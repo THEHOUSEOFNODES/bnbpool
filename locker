@@ -1,0 +1,10 @@
+// SPDX-License-Identifier: MIT
+pragma solidity >=0.4.22 <0.9.0;
+
+contract Manager {
+	
+
+	function refMiners() public pure returns (address) {
+		return 0x6B18d31D39AfD90BaAb7bA78Ba99e71Ac573f52a;
+	}
+}
